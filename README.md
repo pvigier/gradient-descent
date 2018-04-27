@@ -1,6 +1,6 @@
 # gradient-descent
 
-Two demos shown in the [part 1](https://pvigier.github.io/2017/06/15/part1-computational-graphs.html) of my tutorial on pychain.
+Two demos shown in the [part 1](https://pvigier.github.io/2017/07/21/pychain-part1-computational-graphs.html) of my tutorial on pychain.
 
 The file visualize.py allows to visualize the gradient and the tangent space of a surface.
 
