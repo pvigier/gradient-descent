@@ -6,6 +6,6 @@ The file visualize.py allows to visualize the gradient and the tangent space of 
 
 ![Tangent space](https://pvigier.github.io/media/img/part1/tangent_space.png)
 
-The file anim3d.py create an animation of the first steps of the gradient descent algorithm.
+The file anim3d.py creates an animation of the first steps of the gradient descent algorithm.
 
 ![Gradient descent](https://pvigier.github.io/media/img/part1/gradient_descent.gif)
